@@ -14,7 +14,7 @@ vim.opt.number = true -- 显示行号
 vim.opt.relativenumber = true -- 使用相对行号
 
 -- 显示空白字符
-vim.opt.list = true
+vim.opt.list = false
 vim.opt.listchars = { space = "·",tab="-->"}
 
 -- 缩进字符
